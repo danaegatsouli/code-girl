@@ -1,1 +1,14 @@
-test file tom :)
+INSURANCE AGENT
+An insurance agent is a representative who sells the policy on behalf of an insurance company. The agent helps consumers select the right insurance based on their needs, but represents an insurance company. Insurance agents will sell and negotiate different insurance policies.
+Most insurance sales agents work in offices, although some may spend much of their time traveling to meet with clients.
+Average salary of insurance agents in Europe is €65.000.
+
+POLITICIANS
+A politician is a person who has political power in the government of a state, a person active in party politics, or a person holding or seeking an elected office in government. Political positions range from local governments to state governments to federal governments to international governments. Politicians are known for their rhetoric, as in speeches or campaign advertisements. They are especially known for using common themes that allow them to develop their political positions in terms familiar to the voters.
+Monthly salary is of €8,932.86, or just over €107,000 per year.
+
+CIVIL ENGINEER
+Civil engineering is the application of planning, designing, constructing, maintaining, and operating infrastructure while protecting the public and environmental health, as well as improving existing infrastructure that may have been neglected. 
+Civil engineers generally work in a variety of locations and conditions. Much of a civil engineer's work is dealing with non-engineers or others from different technical disciplines. Many spend time outdoors at construction sites so that they can monitor operations or solve problems onsite. The job is typically a blend of in-office and on-location work depending on the focus of each engineer. Most engineers work full-time. 
+In most countries, a civil engineer will have graduated from a post-secondary school with a degree in civil engineering, which requires a strong background in mathematics and the physical sciences; this degree is typically a bachelor's degree.
+The average earnings of a civil engineer in Greece is €44,000 per year.
