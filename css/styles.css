@@ -23,3 +23,7 @@
     flex-wrap: wrap;
     justify-content: center;
   }
+
+  img{
+    height: 175px;
+  }
