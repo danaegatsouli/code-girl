@@ -5,7 +5,7 @@
   }
   
   .btn{
-    background-color:blueviolet;
+    background-color:#8a2be2;
     color: antiquewhite;
     border: none;
   }
@@ -30,4 +30,8 @@
 
   #carousel{
     height: 100%;
+  }
+
+  #welcome{
+    color:#8a2be2;
   }
