@@ -15,11 +15,13 @@ img{
 }
 
 .form{
-    display: flexbox;
+    display: flex;
     flex-direction: row;
+    gap: 50px;
+    flex-wrap: wrap;
 }
 
 iframe{
-    width: 300px;
-    height: 300px;
+    width: 150%;
+    height: 90%;
 }
