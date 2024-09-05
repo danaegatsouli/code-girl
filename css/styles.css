@@ -11,7 +11,7 @@
   }
   
   .btn:hover{
-    background-color:rgb(113, 205, 26);
+    background-color:#601f9c;
     color: antiquewhite;
   }
   
@@ -34,4 +34,8 @@
 
   #welcome{
     color:#8a2be2;
+  }
+
+  .carouselExampleAutoplaying{
+    width: 100%;
   }
