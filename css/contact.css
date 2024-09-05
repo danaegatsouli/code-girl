@@ -2,14 +2,24 @@ h1{
     margin-top: 50px;
 }
 
-.mb-3{
-    margin-left: 120px;
-}
-
 hr{
     width: 40%
 }
 
 .mb-3{
     width: 300px
+}
+
+img{
+    width: 80%
+}
+
+.form{
+    display: flexbox;
+    flex-direction: row;
+}
+
+iframe{
+    width: 40%;
+    height: 40%;
 }
