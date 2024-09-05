@@ -1,8 +1,15 @@
-hr{
-    width: 50%;
+main{
+    text-align: center;
 }
 
 img{
-    width: 70%;
-    aspect-ratio: 2/1;
+    width: 100%;
+    height: auto;
+}
+
+.name{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
