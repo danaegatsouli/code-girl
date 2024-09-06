@@ -29,13 +29,14 @@
   }
 
   #carousel{
-    height: 100%;
+    height: 40%;
   }
 
   #welcome{
     color:#8a2be2;
   }
 
-  .carouselExampleAutoplaying{
-    width: 100px;
+  #carousel-container {
+    width: 50%;
+    text-align: center;
   }
