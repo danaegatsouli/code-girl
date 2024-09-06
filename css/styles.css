@@ -2,6 +2,10 @@
 .starter-template {
     padding: 3rem 1.5rem;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
   
   .btn{
@@ -29,7 +33,7 @@
   }
 
   #carousel{
-    height: 40%;
+    height:600px;
   }
 
   #welcome{
@@ -37,6 +41,9 @@
   }
 
   #carousel-container {
-    width: 50%;
+    width: 80%;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
