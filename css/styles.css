@@ -2,6 +2,10 @@
 .starter-template {
     padding: 3rem 1.5rem;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
   
   .btn{
@@ -29,10 +33,14 @@
   }
 
   #carousel{
+<<<<<<< HEAD
     height: 40%;
     display: flex;
     justify-content: center;
     align-items: center;
+=======
+    height:600px;
+>>>>>>> f341fb23831989444c387a7955b765aed780f0f0
   }
 
   #welcome{
@@ -40,5 +48,13 @@
   }
 
   #carousel-container {
+<<<<<<< HEAD
     width: 50%;
+=======
+    width: 80%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+>>>>>>> f341fb23831989444c387a7955b765aed780f0f0
   }
