@@ -7,3 +7,7 @@ ul{
     list-style-position: inside;
     list-style: none;
 }
+
+h1{
+    font-weight: bold;
+}
