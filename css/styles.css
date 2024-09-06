@@ -33,11 +33,7 @@
   }
 
   #carousel{
-<<<<<<< HEAD
     height: 60%;
-=======
-    height: 40%;
->>>>>>> ad1773ec56f054c792a314ee549f787ca77e5225
     display: flex;
     justify-content: center;
     align-items: center;
@@ -48,11 +44,4 @@
   }
 
   #carousel-container {
-    width: 50%;
-<<<<<<< HEAD
-  }
-=======
- 
-=======
-  }
->>>>>>> ad1773ec56f054c792a314ee549f787ca77e5225
+    width: 50%;}
